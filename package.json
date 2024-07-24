@@ -21,7 +21,7 @@
     "tabs"
   ],
   "author": "Richard W. Feliciano",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@babel/cli": "^7.24.8",
     "@babel/core": "^7.24.9",
